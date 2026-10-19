@@ -1,0 +1,2 @@
+nicegui==3.17.1
+psutil==7.1.0

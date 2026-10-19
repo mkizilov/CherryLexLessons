@@ -1,0 +1,60 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "opencode-omniroute/Antharas",
+  "default_agent": "lesson-coordinator",
+  "share": "disabled",
+  "compaction": {
+    "auto": true,
+    "buffer": 100000,
+    "keep": {"tokens": 20000}
+  },
+  "provider": {
+    "opencode-omniroute": {
+      "models": {
+        "Antharas": {
+          "limit": {
+            "context": 1000000,
+            "input": 872000,
+            "output": 128000
+          }
+        }
+      }
+    }
+  },
+  "instructions": [
+    "AGENTS.md"
+  ],
+  "permission": {"*": "allow", "question": "deny"},
+  "mcp": {
+    "exa": {
+      "type": "remote",
+      "url": "{file:./secrets/mcp-exa-url}",
+      "enabled": true,
+      "headers": {
+        "x-api-key": "{file:./secrets/mcp-exa-header-x-api-key}"
+      },
+      "oauth": false
+    },
+    "tavily": {
+      "type": "remote",
+      "url": "{file:./secrets/mcp-tavily-url}",
+      "enabled": true,
+      "oauth": false
+    },
+    "agent-device": {
+      "enabled": false
+    },
+    "expo": {
+      "enabled": false
+    },
+    "maestro": {
+      "enabled": false
+    },
+    "MobileBuildMCP": {
+      "enabled": false
+    },
+    "paper-search": {
+      "enabled": false
+    }
+  }
+}

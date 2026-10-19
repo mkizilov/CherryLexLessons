@@ -1,0 +1,33 @@
+{
+  "topic": "REPLACE with the base family's capability",
+  "objective": "REPLACE with this return's purposeful application or small extension",
+  "audience_policy": "Fluent learner-language explanation; target knowledge is limited to this stage's unlock rank and eligible teaching, never future family stages.",
+  "family_progression": {
+    "stage": 1,
+    "purpose": "REPLACE to match the reviewed stage-0 family_plan",
+    "learner_decision": "REPLACE with the actual skill required to answer",
+    "relationship_to_previous": "REPLACE: useful reinforcement, transfer, contrast or justified small extension",
+    "overlap_review": "REPLACE: distinguish substantive repetitions from cosmetic noun swaps; repetition is not a newly covered topic"
+  },
+  "extension": {
+    "mode": "practice",
+    "rationale": "REPLACE: prior teaching suffices, or justify 1–2 new pages before assessment. Practice mode keeps lesson.md present and empty."
+  },
+  "literacy_policy": {
+    "assumed": "REPLACE with evidenced script/reading/input prerequisites",
+    "provided_here": "REPLACE with actual learner-visible assistance or teaching; identify whether a response is copied selection, cued retrieval or unaided generation",
+    "not_assessed": "REPLACE with skills not justified at this stage"
+  },
+  "candidates": [],
+  "deferred": [],
+  "curriculum": [{"topic_id": "REPLACE", "intent": "practice", "teaching_pages": ["REPLACE with actual eligible family anchor"], "question_ids": ["REPLACE with current IDs"], "rationale": "REPLACE: useful retrieval or extension, not automatic new coverage"}],
+  "prerequisites": [{"source": "stage:0", "justification": "REPLACE with the actual base teaching used; cite other eligible keys only when needed"}],
+  "sources": [{"reference": "REPLACE with verified corpus locator or URL", "justification": "REPLACE with claim and provenance"}],
+  "lexical_audit": [
+    {"target_form": "REPLACE with exact canonical form", "known_rank": 1, "justification": "REPLACE with sense/function/reading", "occurrences": ["REPLACE with IDs"]},
+    {"target_form": "REPLACE with an earlier taught form or remove this example", "taught_in": "stage:0", "justification": "REPLACE with exact teaching anchor and usage; practice-only cannot cite this", "occurrences": ["REPLACE with IDs"]}
+  ],
+  "option_text_policies": {},
+  "question_blueprint": [{"skill": "REPLACE", "teaching_page": "REPLACE", "question_ids": [], "misconception": "REPLACE", "purposeful_variation": "REPLACE: actual decision/cue changes or useful repeated retrieval; keep/replace/add according to value within25–50, not a default count. Not every known word is required"}],
+  "localization_risks": []
+}

@@ -1,0 +1,9 @@
+{
+  "timeoutMs": 43200000,
+  "stallThresholdMs": 1800000,
+  "stallMinSteps": 60,
+  "stallTokenThreshold": 30,
+  "rateLimitCapacity": 100,
+  "peerMessageLimit": 50,
+  "dashboardPort": 0
+}

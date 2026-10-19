@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "study_language": "REPLACE",
+  "scope": "Planning roadmap, not learner knowledge or proof of comprehensive proficiency",
+  "target_rank": null,
+  "overview_review_range": [8000, 10000],
+  "review_milestones": [1000, 2000, 4000, 6000, 8000, 10000],
+  "block_review_policy": "At each 200-word block, inspect essential gaps, overlapping families, purposeful returns and prerequisites in learner order; at milestones perform independent scenario-based checks against authoritative language-specific topic references. Record a concrete scenario, eligible prerequisite/teaching anchors, actual decisions tested and failures or justified deferrals. Include a changed context or plausible contrast rather than only memorized example wording; this is a content audit, not learner-proficiency evidence. Revisit unresolved essentials with evidenced provision, feasible scheduled repair, justified exclusion or blocker; leave no unexplained essential deferral at the final available horizon. Teach foundations at early feasible checkpoints, not an artificial rush or delay to reach8k–10k.",
+  "family_horizon_policy": "Replace target_rank with the language's explicit learner-review milestone after running tools/history.py --language CODE --horizon. Record the full-prefix authoring endpoint and final-return vocabulary horizon separately in roadmap rationale. A base requires n+225 words; the complete two-wave prefix stops at the first unsupported base, so individually eligible later bases cannot be skipped to. An 8000-word list supports768families, last base7760; 10000 supports968, last9760. Completing all bases through8000/10000 needs8225/10225words. Do not clamp returns, skip prefix members or silently extend frozen vocabulary.",
+  "literacy_policy": "Track script, reading, sound and input capabilities separately from word ranks. State actual prerequisites and assistance per stage; word recognition is not evidence of literacy or productive ability.",
+  "coverage_evidence_policy": "Family counts, bank size, repeated grammatical forms and syntactically valid references are not proof of comprehensive coverage. Inspect actual teaching and assessment for the claimed capability, and maintain justified omissions and blockers. Justify important excluded domains against at least one authoritative language-specific reference; distinguish no evidence yet from inapplicable. Absence from the local corpus is not absence from the language.",
+  "claim_report_policy": "Finalized claims count only at learner unlock rank, with actual current questions and current or original-context eligible prior pages. Referenced IDs are not linguistically verified coverage or learner mastery.",
+  "topics": [
+    {
+      "id": "REPLACE-with-stable-language-topic-id",
+      "domain": "REPLACE with language-specific domain",
+      "capability": "REPLACE with observable important usage capability",
+      "priority": "essential",
+      "sources": ["REPLACE with actual copied corpus topic/lesson locator or verified source"],
+      "prerequisite_topics": [],
+      "review_by_rank": 1000,
+      "status": "planned",
+      "rationale": "REPLACE with importance and justified scope; do not infer mastery from word count"
+    }
+  ],
+  "domain_audit": [
+    {"domain": "REPLACE", "decision": "include", "rationale": "REPLACE: consider script/sound conventions, phrases, word order, questions/negation, reference, modification, predicates, tense/aspect/modality, argument relations, clause linking, discourse/register and productive word formation as applicable; not universal required categories"}
+  ],
+  "limitations": ["Selected-response and fill-blank items cannot establish spontaneous speaking, listening comprehension, writing or communicative proficiency."]
+}

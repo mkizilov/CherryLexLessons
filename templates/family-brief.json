@@ -1,0 +1,37 @@
+{
+  "topic": "REPLACE with the family's atomic capability",
+  "objective": "REPLACE with the small observable outcome at the base checkpoint",
+  "audience_policy": "The learner is fluent in the explanation language, which differs from the study language. Source is es for English study and en otherwise. Target knowledge is stage-local, not the full family vocabulary horizon.",
+  "family_plan": {
+    "capability": "REPLACE with one capability developed through this family",
+    "excluded_scope": ["REPLACE with related material deliberately left to other families"],
+    "stage_purposes": [
+      {"stage": 0, "purpose": "REPLACE: first useful application", "learner_decision": "REPLACE: what the learner must decide or produce", "reinforcement_or_extension": "introduce", "evidence_plan": "REPLACE: teaching anchors and item groups"},
+      {"stage": 1, "purpose": "REPLACE: useful application with newly available vocabulary", "learner_decision": "REPLACE", "reinforcement_or_extension": "practice", "evidence_plan": "REPLACE"},
+      {"stage": 2, "purpose": "REPLACE: purposeful retrieval or a small justified extension", "learner_decision": "REPLACE", "reinforcement_or_extension": "practice", "evidence_plan": "REPLACE"},
+      {"stage": 3, "purpose": "REPLACE: varied use without a new-topic detour", "learner_decision": "REPLACE", "reinforcement_or_extension": "practice", "evidence_plan": "REPLACE"},
+      {"stage": 4, "purpose": "REPLACE: transfer or discrimination within this capability", "learner_decision": "REPLACE", "reinforcement_or_extension": "practice", "evidence_plan": "REPLACE"}
+    ],
+    "overlap_review": "REPLACE: cite inspected eligible-prior and planning-only lesson/page keys, relevant taught-form claims and unresolved gaps. Distinguish this family from those examples; future teaching is not a prerequisite. A read-all checkbox is not evidence.",
+    "bank_quality_rule": "Choose25–50items within the required limits by needed decisions, meaningful contrast and useful reinforcement—not a default endpoint. Keep, replace or add based on marginal value. Consider additional taught distractors within4–10 when they add useful repeated-encounter variety; do not dilute the useful contrast or invent errors to fill space. Explain material choices in existing blueprint/findings, not a new quota. Report an infeasible floor rather than widening prerequisites."
+  },
+  "literacy_policy": {
+    "assumed": "REPLACE with evidenced script, reading and input prerequisites, or explicitly none",
+    "provided_here": "REPLACE with actual learner-visible readings/input instructions or supported assistance; a promise in this brief is not a delivered input route",
+    "not_assessed": "REPLACE with unverified sound/script/input skills that this bank must not require"
+  },
+  "candidates": [
+    {"topic": "REPLACE with a genuine candidate; add only material alternatives", "utility": "REPLACE", "prerequisite_load": "REPLACE", "prior_overlap": "REPLACE", "question_variety": "REPLACE with representative learner decisions and a plausible competing answer, not a volume claim", "decision": "REPLACE with chosen/rejected rationale"}
+  ],
+  "deferred": [],
+  "curriculum": [{"topic_id": "REPLACE with roadmap ID", "intent": "introduce", "teaching_pages": ["REPLACE with an actual teaching anchor"], "question_ids": ["REPLACE with current IDs"], "rationale": "REPLACE with assessed capability, not bank size"}],
+  "prerequisites": [],
+  "sources": [{"reference": "REPLACE with verified corpus locator or URL", "justification": "REPLACE with the claim verified and source/license provenance"}],
+  "lexical_audit": [
+    {"target_form": "REPLACE with exact canonical form", "known_rank": 1, "justification": "REPLACE with the known sense/function; rank alone does not establish every form", "occurrences": ["REPLACE with actual IDs"]},
+    {"target_form": "REPLACE with a form taught on a current page, or remove this example", "taught_in": "this", "justification": "REPLACE with actual teaching anchor and function; not permission to add an unknown lexical headword", "occurrences": ["REPLACE with actual IDs"]}
+  ],
+  "option_text_policies": {},
+  "question_blueprint": [{"skill": "REPLACE", "teaching_page": "REPLACE", "question_ids": [], "misconception": "REPLACE", "purposeful_variation": "REPLACE"}],
+  "localization_risks": []
+}

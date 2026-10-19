@@ -1,0 +1,14 @@
+{
+  "status": "rejected",
+  "reviewer_session": "REPLACE with actual Task/Ensemble session identity",
+  "binding": {},
+  "checklist": ["REPLACE with actual whole-family checks"],
+  "findings": [{"location": "REPLACE with stage and IDs", "evidence": "REPLACE with inspected evidence", "resolution": "REPLACE with disposition, including justified nonissues"}],
+  "stages": [
+    {"stage": 0, "checklist": ["REPLACE with actual checks at the base unlock"], "findings": ["REPLACE with findings or evidence-backed nonissues"], "question_checks": []},
+    {"stage": 1, "checklist": ["REPLACE with actual checks at base+25"], "findings": ["REPLACE"], "question_checks": []},
+    {"stage": 2, "checklist": ["REPLACE with actual checks at base+75"], "findings": ["REPLACE"], "question_checks": []},
+    {"stage": 3, "checklist": ["REPLACE with actual checks at base+125"], "findings": ["REPLACE"], "question_checks": []},
+    {"stage": 4, "checklist": ["REPLACE with actual checks at base+225"], "findings": ["REPLACE"], "question_checks": []}
+  ]
+}
